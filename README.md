@@ -18,8 +18,6 @@ Features live progress tracking and a celebration confetti when all tasks are co
 |--------------|-------------|
 | ![Screenshot](images/desktop-screenshot.png) | ![Empty](images/desktop-empty-image.png) |
 
-> 💡 Replace these with actual screenshots from your project
-
 ## 🚀 Technologies Used
 
 - **HTML5**
