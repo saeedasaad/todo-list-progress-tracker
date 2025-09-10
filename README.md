@@ -1,4 +1,4 @@
-# ✅ To-Do List App with Progress Tracker & Confetti 🎉
+# To-Do List App with Progress Tracker & Confetti 
 
 A responsive and interactive To-Do List app built with **HTML**, **CSS**, and **JavaScript**.  
 It features live progress tracking, persistent data storage using LocalStorage, and a fun confetti celebration when all tasks are completed!
@@ -7,18 +7,18 @@ It features live progress tracking, persistent data storage using LocalStorage, 
 
 ---
 
-## ✨ Features
+## Features
 
-- ✅ Add, edit, and delete tasks
-- 📊 Real-time progress bar showing task completion percentage
-- 🎉 Confetti animation when all tasks are marked complete
-- 💾 Saves your tasks in **LocalStorage** (auto-persistent)
-- 🎨 Modern, clean and responsive UI
-- 💻 Press **Enter key** to quickly add a task
+- Add, edit, and delete tasks
+- Real-time progress bar showing task completion percentage
+- Confetti animation when all tasks are marked complete
+- Saves your tasks in **LocalStorage** (auto-persistent)
+- Modern, clean and responsive UI
+- Press **Enter key** to quickly add a task
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Desktop View | Empty State |
 |--------------|-------------|
@@ -26,18 +26,18 @@ It features live progress tracking, persistent data storage using LocalStorage, 
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
-- ✅ **HTML5**
-- ✅ **CSS3** (Flexbox, custom styles)
-- ✅ **JavaScript (ES6+)**
-- ✅ **Font Awesome** – icons
-- ✅ **LocalStorage** – data persistence
-- ✅ **Confetti.js** – celebratory animation
+-  **HTML5**
+-  **CSS3** (Flexbox, custom styles)
+-  **JavaScript (ES6+)**
+-  **Font Awesome** – icons
+-  **LocalStorage** – data persistence
+-  **Confetti.js** – celebratory animation
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```text
 todo-list-progress-tracker/
@@ -52,7 +52,7 @@ todo-list-progress-tracker/
 ```
 ---
 
-## 📦 How to Run Locally
+##  How to Run Locally
 
 1. **Clone the repository:**
    ```bash
@@ -62,17 +62,17 @@ todo-list-progress-tracker/
 
 ---
 
-## 🧪 Future Improvements
+##  Future Improvements
 
-- ⏰ Add due dates and reminders  
-- 📁 Add task categories or tags  
-- 🔁 Add drag-and-drop task sorting  
-- 🌙 Add dark mode toggle  
-- 📱 Optimize for smaller mobile screens  
+-  Add due dates and reminders  
+-  Add task categories or tags  
+-  Add drag-and-drop task sorting  
+-  Add dark mode toggle  
+- Optimize for smaller mobile screens  
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 - [Font Awesome](https://fontawesome.com/) – for icons  
 - [Confetti.js](https://www.cssscript.com/confetti-falling-animation/) – for celebratory animation  
