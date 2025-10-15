@@ -42,13 +42,13 @@ It features live progress tracking, persistent data storage using LocalStorage, 
 ```text
 todo-list-progress-tracker/
 │
-├── index.html              # Main HTML file
-├── style.css               # App styles
-├── script.js               # Core logic and DOM interactions
-├── images/                 # Screenshots and other images
+├── index.html          
+├── style.css               
+├── script.js              
+├── images/
 │   ├── desktop-screenshot.png
 │   └── desktop-empty-image.png
-└── README.md               # This file
+└── README.md               
 ```
 ---
 
@@ -79,7 +79,6 @@ todo-list-progress-tracker/
 - Inspiration from open-source to-do list UIs on GitHub and Dribbble  
 
 ---
-
 
 
 
